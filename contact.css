@@ -46,7 +46,7 @@ body{
 .left{
 	background: url("Images/support.png") no-repeat center;
 	background-size: cover;
-    filter: blur(0px);
+    filter: blur(25px);
 	height: 90%;
 }
 
