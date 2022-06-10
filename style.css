@@ -566,8 +566,9 @@ footer {
     background-color: whitesmoke;
   }
 
-  .payment{
+  .footerRightMenu{
     width: 90%;
     padding: 20px;
+    background-color: black;
   }
 }
